@@ -57,12 +57,12 @@ O uso do swagger cairia muito bem aqui
 
 * Crie um fork dessa avaliação;
 * Desenvolva;
-* Envie e-mail para dmoreira@indracompany.com sinalizando a entrega;
+* Envie e-mail para XXXXXXX sinalizando a entrega;
 * Você possui 5 dias para entregar a atividade. Que comecem os jogos :-)
 
 
 ### O que me desclassificaria automaticamente?
 
-* Commitar sem seguir as regras dos tópicos anteriores;
+* Não entregar o desafio;
 * Sua aplicação não subir;
 * Não entregar a atividade dentro do prazo estabelecido.
