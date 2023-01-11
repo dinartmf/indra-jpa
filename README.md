@@ -31,7 +31,7 @@ Caso você não manje de Angular, encorajamos que você nos envie a API. Claro, 
 
 ### Requisitos que devem ser implementados
 
-* Baixe o arquivo 2018-1_CA.csv por meio do link http://www.anp.gov.br/images/dadosabertos/precos/2018-1_CA.csv e crie uma API REST seguindo os tópicos especificados a seguir
+* Baixe o arquivo 2018-1_CA.csv por meio do link https://www.gov.br/anp/pt-br/centrais-de-conteudo/dados-abertos/arquivos/pmqc/2022/2022-06-pmqc.csv/@@download/file/2022-06-pmqc.csv e crie uma API REST seguindo os tópicos especificados a seguir
 * Implemente uma documentação interativa. O acesso a essa URI não requer autenticação;
 * Implementar recurso para CRUD de usuários;
 * Implementar recurso para CRUD de histórico de preço de combustível;
