@@ -44,10 +44,6 @@ Caso você não manje de Angular, encorajamos que você nos envie a API. Claro, 
 * Implementar recurso que retorne o valor médio do valor da compra e do valor da venda por bandeira;
 * OBS: Você deve deduzir quais são as entidades do domínio necessárias para completar a atividade, tal como os relacionamentos, etc.
 
-### Não entregue a atividade sem isso
-
-* Documentação interativa da API;
-* Uso do framework Lombok. Afinal, ninguém gosta de classes poluídas.
 
 ```
 O uso do swagger cairia muito bem aqui
@@ -56,7 +52,7 @@ O uso do swagger cairia muito bem aqui
 ### Uma vez feito, como entrego o projeto?
 
 * Crie um fork dessa avaliação;
-* Desenvolva;
+* Desenvolva e entregue o que conseguiu desenvolver;
 * Envie e-mail para XXXXXXX sinalizando a entrega;
 * Você possui 5 dias para entregar a atividade. Que comecem os jogos :-)
 
@@ -64,5 +60,3 @@ O uso do swagger cairia muito bem aqui
 ### O que me desclassificaria automaticamente?
 
 * Não entregar o desafio;
-* Sua aplicação não subir;
-* Não entregar a atividade dentro do prazo estabelecido.
